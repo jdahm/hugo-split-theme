@@ -163,14 +163,16 @@ body.page-template-page-fullsingle-split {
           padding: 40px; } }
 
 .split-intro {
-  font-weight: 600;
-  font-size: 64px;
-  line-height: 80px;
-  letter-spacing: -2px; }
+    font-weight: 600;
+    font-size: 32px;
+    /* font-size: 64px; */
+    line-height: 48px;
+    /* line-height: 80px; */
+    letter-spacing: -2px; }
   .split-intro h1 {
     font-weight: 400;
     text-transform: uppercase;
-    font-size: 16px;
+    font-size: 21px;
     line-height: 16px;
     margin-bottom: 40px;
     letter-spacing: 0.4px;
@@ -228,7 +230,7 @@ body.page-template-page-fullsingle-split {
 
 .split-credit {
   opacity: 0.4; }
-  .split-credit p {
+.split-credit p {
     font-size: 12px;
     line-height: 14px; }
     .split-credit p a {
